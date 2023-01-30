@@ -21,6 +21,10 @@
 - GoChess - Chess Engine in Go (private atm)
 
 <br>
+
+## 📫 How to reach me:
+- **lucahendrik.dev@gmail.com**
+
 <br>
 
 # Languages and Tools i use:
@@ -35,8 +39,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="42" height="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="42" height="42"/>
 </p>
-
-<br>
 
 ## Backend
 
