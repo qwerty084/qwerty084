@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">Full stack developer from Hamburg, Germany.</h3>
 
-<br>
-
 ## 🔭 My interests:
 
 - Programming
