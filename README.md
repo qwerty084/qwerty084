@@ -23,7 +23,7 @@
 <br>
 
 ## 📫 How to reach me:
-- **lucahendrik.dev@gmail.com**
+- **github@lucahelms.dev**
 
 <br>
 
