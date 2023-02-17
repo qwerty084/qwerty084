@@ -16,12 +16,8 @@
 
 - GoChess - Chess Engine in Go (private atm)
 
-<br>
-
 ## 📫 How to reach me:
 - **github@lucahelms.dev**
-
-<br>
 
 # Languages and Tools i use:
 
