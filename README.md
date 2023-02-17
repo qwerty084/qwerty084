@@ -7,8 +7,6 @@
 - Open Source
 - Chess
 
-<br>
-
 ## 👨‍💻 I’m currently working on:
 
 - [vue3-chessboard](https://github.com/qwerty084/vue3-chessboard) - vue.js chessboard component library
