@@ -12,7 +12,6 @@
 
 - [vue3-chessboard](https://github.com/qwerty084/vue3-chessboard) - vue.js chessboard component library
 - [TauriChess](https://github.com/qwerty084/TauriChess) - cross platform chess desktop application
-- [svelte-chessboard](https://github.com/qwerty084/SvelteChessboard) - svelte chessboard component library
 - GoChess - Chess Engine in Go (private atm)
 
 ## 📫 How to reach me:
